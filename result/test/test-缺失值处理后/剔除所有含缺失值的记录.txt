@@ -1,0 +1,15 @@
+   surgery Age Hospital.Number rectal.temperature pulse respiratory.rate
+14       1   1          528999               37.9   120               60
+   temperature.of.extremities peripheral.pulse mucous.membranes
+14                          3                3                3
+   capillary.refill.time pain peristalsis abdominal.distension
+14                     1    5           4                    4
+   nasogastric.tube nasogastric.reflux nasogastric.reflux.PH
+14                2                  2                   7.5
+   rectal.examination abdomen packed.cell.volume total.protein
+14                  4       5                 52           6.6
+   abdominocentesis.appearance abdomcentesis.total.protein outcome
+14                           3                         1.8       2
+   surgical.lesion type.of.lesion1 type.of.lesion2 type.of.lesion3 cp.data
+14               1            3205               0               0       1
+
